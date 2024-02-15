@@ -6,7 +6,7 @@
 # Gemini-Interaction
 ## How to Run:
 ```bash
-pip install -q -U google-generativeai
+pip install -r requirements.txt
 ```
 ```bash
 python main.py
