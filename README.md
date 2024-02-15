@@ -8,6 +8,14 @@
 </a>
 </div>
  <br>
+ 
+```bash
+pip install -q -U google-generativeai
+```
+```bash
+python main.py
+```
+ <br>
  <div align="center">
  <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
