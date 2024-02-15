@@ -4,10 +4,7 @@
  <br>
  
 # Gemini-Interaction
-
- <br>
- 
- ## How to Run:
+## How to Run:
 ```bash
 pip install -q -U google-generativeai
 ```
